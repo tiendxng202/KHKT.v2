@@ -1,0 +1,6 @@
+{
+  "name": "RehabCal - Phục Hồi Chức Năng & Quản Lý Calo",
+  "description": "Ứng dụng quản lý, lưu trữ thông tin bệnh nhân, đánh giá tỉ lệ phần trăm phục hồi chức năng vận động và theo dõi lượng calo cần đốt/đã đốt trong ngày.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
